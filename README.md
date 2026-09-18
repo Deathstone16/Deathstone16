@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Perfil de Bruno Camors">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light-v2.svg">
+  <img src="assets/banner-dark-v2.svg" width="100%" alt="Perfil de Bruno Camors">
 </picture>
 
 <br>
@@ -56,10 +56,10 @@ Hola, soy **Bruno Camors**, desarrollador backend y cofundador de **NeaDev**, de
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-  <img src="assets/radar-skills.svg" width="400" alt="Gráfico de habilidades backend">
+  <img src="assets/radar-skills-v2.svg" width="400" alt="Gráfico de habilidades backend">
 </td>
 <td width="50%" align="center" valign="middle">
-  <img src="assets/radar-platform.svg" width="400" alt="Gráfico de tecnologías y datos">
+  <img src="assets/radar-platform-v2.svg" width="400" alt="Gráfico de tecnologías y datos">
 </td>
 </tr>
 </table>
