@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="390" viewBox="0 0 500 390">
+  <rect width="500" height="390" rx="18" fill="#0d1117"/><text x="250" y="35" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="19" font-weight="700">BACKEND SIGNALS</text>
+  <g transform="translate(250 205)" fill="none" stroke="#30363d"><polygon points="0,-130 112,-65 112,65 0,130 -112,65 -112,-65"/><polygon points="0,-97 84,-49 84,49 0,97 -84,49 -84,-49"/><polygon points="0,-65 56,-33 56,33 0,65 -56,33 -56,-33"/><path d="M0-130V130M-112-65L112 65M112-65L-112 65"/></g>
+  <polygon points="250,88 346,150 333,253 250,309 149,263 171,159" fill="#8b5cf6" fill-opacity=".25" stroke="#a78bfa" stroke-width="3"/>
+  <g fill="#22d3ee"><circle cx="250" cy="88" r="5"/><circle cx="346" cy="150" r="5"/><circle cx="333" cy="253" r="5"/><circle cx="250" cy="309" r="5"/><circle cx="149" cy="263" r="5"/><circle cx="171" cy="159" r="5"/></g>
+  <g fill="#c9d1d9" font-family="monospace" font-size="14"><text x="250" y="61" text-anchor="middle">Python</text><text x="386" y="143">Django</text><text x="370" y="280">APIs</text><text x="250" y="347" text-anchor="middle">Cloud</text><text x="70" y="280">Git Flow</text><text x="65" y="143">Architecture</text></g>
+</svg>

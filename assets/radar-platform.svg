@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="390" viewBox="0 0 500 390">
+  <rect width="500" height="390" rx="18" fill="#0d1117"/><text x="250" y="35" text-anchor="middle" fill="#f0f6fc" font-family="monospace" font-size="19" font-weight="700">PLATFORM SIGNALS</text>
+  <g transform="translate(250 205)" fill="none" stroke="#30363d"><polygon points="0,-130 112,-65 112,65 0,130 -112,65 -112,-65"/><polygon points="0,-97 84,-49 84,49 0,97 -84,49 -84,-49"/><polygon points="0,-65 56,-33 56,33 0,65 -56,33 -56,-33"/><path d="M0-130V130M-112-65L112 65M112-65L-112 65"/></g>
+  <polygon points="250,94 350,147 323,247 250,296 155,260 164,155" fill="#06b6d4" fill-opacity=".22" stroke="#22d3ee" stroke-width="3"/>
+  <g fill="#a78bfa"><circle cx="250" cy="94" r="5"/><circle cx="350" cy="147" r="5"/><circle cx="323" cy="247" r="5"/><circle cx="250" cy="296" r="5"/><circle cx="155" cy="260" r="5"/><circle cx="164" cy="155" r="5"/></g>
+  <g fill="#c9d1d9" font-family="monospace" font-size="14"><text x="250" y="61" text-anchor="middle">PostgreSQL</text><text x="386" y="143">Supabase</text><text x="370" y="280">Render</text><text x="250" y="347" text-anchor="middle">DNS</text><text x="68" y="280">Relational</text><text x="82" y="143">SQL</text></g>
+</svg>
